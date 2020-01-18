@@ -1,3 +1,15 @@
 <resources>
 	<string name="app_name">Speech To Text</string>
+    <string name="sies_hospital">SIES HOSPITAL</string>
+    <string name="dr_g_saiprasad">Dr. G. Saiprasad</string>
+    <string name="diagnosis">Diagnosis :</string>
+    <string name="symptoms">Symptoms :</string>
+    <string name="rx">Rx.</string>
+    <string name="name">Name</string>
+
+    <string name="patient_details">Patient Details :</string>
+    <string name="_91_88888_88888">+91 88888 88888</string>
+    <string name="dr_saiprasad_sieshospital_in">dr.saiprasad@sieshospital.in</string>
+    <string name="analyze">Analyze</string>
+    <string name="todo">TODO</string>
 </resources>
